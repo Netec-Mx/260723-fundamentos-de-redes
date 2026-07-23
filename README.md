@@ -1,3 +1,5 @@
+<img src="images/neteclogo (2).png" alt="logo" width="300"/>
+
 # Fundamentos de Redes
 
 Aprenderás los conceptos esenciales de redes, incluidos modelos OSI/TCP-IP, direccionamiento IP, enrutamiento básico y seguridad, con prácticas para configurar y diagnosticar conexiones en entornos domésticos y oficinas pequeñas.
@@ -50,8 +52,12 @@ Aprenderás los conceptos esenciales de redes, incluidos modelos OSI/TCP-IP, dir
   - Descripción: Elaborar un plan de mantenimiento preventivo y un checklist operativo para documentar y planificar mejoras en redes pequeñas.
   - Duración estimada: 47 min
 
-## Flujo de colaboración
+  ---
 
-- Trabajar en `changes_course`.
-- Crear Pull Request hacia `main`.
-- Merge por `Squash and merge`.
+## 📬 **Contacto y más información**
+
+Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](mailto:soporte@netec.com). También puedes encontrar más recursos en nuestra [página](https://netec.com).
+
+---
+
+¡Gracias por visitar nuestra plataforma! No olvides revisar todos los laboratorios y comenzar tu viaje de aprendizaje hoy mismo.
